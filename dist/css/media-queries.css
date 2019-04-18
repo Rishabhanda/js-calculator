@@ -1,0 +1,8 @@
+@media screen and (max-width: 578px){
+    .ul-margin-setter{
+        margin-top:20px;
+    }
+    .main-calculator-margin{
+        margin-top:10vh;
+    }
+}

@@ -1,0 +1,20 @@
+.row div button{
+    margin:15px 0;  
+}
+.btn-outline-secondary{
+    border-color: transparent;   
+}
+
+.color-button-setter{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.main-calculator-margin{
+    margin-top:20vh;
+}
+
+.ul-margin-setter{
+    margin-top:20vh;
+}
